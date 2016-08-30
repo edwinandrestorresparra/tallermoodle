@@ -2,16 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.uniminuto.mimoodle"
         versionCode = "2010"
         version   = "2.9">
-    <name>Moodle Mobile</name>
+    <name>virtual uniminuto</name>
 
     <description>
-        Moodle Mobile official app
+        espacio de aprendizaje uniminuto moodlemoot official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
+    <author href="http://uniminuto.edu" email="etorresparr@uniminuto.edu.co">
         Moodle Pty Ltd
     </author>
 
